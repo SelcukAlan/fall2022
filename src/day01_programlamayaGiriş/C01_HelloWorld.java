@@ -7,6 +7,8 @@ public class C01_HelloWorld {
 
         System.out.println(str);
 
+        String str2="Hello gitHub";
+
 
         System.out.println("Hello");
         // Println yazdırırsanız alt satıra geçer.
@@ -15,6 +17,8 @@ public class C01_HelloWorld {
         // Print yazarsanız yazdırdıktan sonra alt satıra geçmez bir sonraki yazdığımız aynı satırda olur.
 
         System.out.println("Bu da 4. satır olsun");
+
+
 
 
 
