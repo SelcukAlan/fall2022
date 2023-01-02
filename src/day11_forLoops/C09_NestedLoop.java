@@ -6,8 +6,8 @@ public class C09_NestedLoop {
         // input olarak verilen kenar uzunluklarina gore
         // asagidaki sekli cizdirin
 
-        int kisaKenar=6;
-        int uzunKenar=9;
+        int kisaKenar=5;
+        int uzunKenar=15;
         /*
                 * * * * * * * *   // bir satiri nasil yazdiracagimizi inner loop ile belirliyoruz
                 * * * * * * * *
